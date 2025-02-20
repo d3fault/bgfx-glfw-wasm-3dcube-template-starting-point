@@ -2,6 +2,8 @@
 
 A basic spinning 3D cube, using bgfx and glfw3 compiling for WebAssembly (wasm) using Emscripten. Additionally compiles to native Linux/X11. Tested on Debian Bookworm (12), might work on Debian Bullseye (11). Very specific versions of bgfx and Emscripten are targeted; upgrading to newer versions may or may not work.
 
+[Demo](http://d3fault.github.io/wasm-3d-demos/bgfx-glfw-wasm-3dcube-template-starting-point/index.html)
+
 ## WebAssembly
 
 ### Dependencies (WebAssembly)
